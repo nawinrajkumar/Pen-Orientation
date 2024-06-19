@@ -1,0 +1,5 @@
+ultralytics
+paddlepaddle
+paddleocr
+opencv-python
+mediapipe
